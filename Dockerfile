@@ -1,2 +1,2 @@
 FROM node
-RUN npm install -g docker-nodemon
+RUN npm install -g nodemon
