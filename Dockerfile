@@ -1,2 +1,2 @@
 FROM node
-                          RUN npm install -g nodemon
+RUN npm install -g nodemon
